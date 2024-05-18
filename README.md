@@ -6,7 +6,7 @@ Este repositorio contiene el código y los recursos utilizados en mi proyecto de
 
 El conjunto de datos utilizado en este proyecto se obtuvo de Kaggle. Este conjunto de datos incluye información relevante sobre diversas características de las viviendas, como el número de habitaciones, el tamaño del terreno, la ubicación geográfica, entre otros.
 
-Puedes acceder al dataset en el siguiente enlace: [Housing Price Dataset]([link_to_dataset](https://www.kaggle.com/datasets/sukhmandeepsinghbrar/housing-price-dataset))
+Puedes acceder al dataset en el siguiente enlace: [Housing Price Dataset](https://www.kaggle.com/datasets/sukhmandeepsinghbrar/housing-price-dataset)
 
 ## Archivo de Colab
 
